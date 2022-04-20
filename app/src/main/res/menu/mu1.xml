@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pos"
+        android:icon="@drawable/ic_pos"
+        android:title="position" />
+    <item
+        android:title="ajouter un element"
+        android:id="@+id/ajout"/>
+    <item android:title="modifier"
+        android:id="@+id/modi"/>
+    <item android:title="supprimer un element"
+        android:id="@+id/supp"/>
+    <item android:title="rechercher un element"
+        android:id="@+id/rech"/>
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Example of RecyclerView</string>
+
+    <string-array name="Countries">
+        <item>Algeria</item>
+        <item>Brazile</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>Russia</item>
+        <item>Tunisia</item>
+        <item>United Kingdom</item>
+        <item>USA</item>
+    </string-array>
+
+    <string-array name="Capitals">
+        <item>Algiers</item>
+        <item>Brasilia</item>
+        <item>Ottawa</item>
+        <item>Berlin</item>
+        <item>Moscow</item>
+        <item>Tunis</item>
+        <item>London</item>
+        <item>Washington DC</item>
+    </string-array>
+</resources>
